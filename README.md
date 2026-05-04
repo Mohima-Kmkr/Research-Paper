@@ -2,7 +2,9 @@
 
 ### A Feminist Reading of Fairness Cream Advertisements
 
-![Status](https://img.shields.io/badge/Research-Completed-blue) ![Field](https://img.shields.io/badge/Media%20Studies-Feminism-red) ![Type](https://img.shields.io/badge/Method-Qualitative-green)
+![Status](https://img.shields.io/badge/Research-Completed-blue) 
+![Field](https://img.shields.io/badge/Media%20Studies-Feminism-red) 
+![Type](https://img.shields.io/badge/Method-Qualitative-green)
 
 ---
 
@@ -140,10 +142,27 @@ A Jupyter Notebook (`feminist_ad_analysis.ipynb`) can be used for:
 Feminism, Fairness Cream Ads, Beauty Ideology, Patriarchy, Colorism, Male Gaze, Media Representation, Audience Reception, Gender Stereotypes, Visual Culture
 
 ---
+## 📊 Contributor Stats
 
-## 👩‍🎓 Author
+### 👤 Mohima Karmakar
 
-Master’s in Mass Communication and Journalism
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohima-Kmkr&theme=dracula)
+
+### 👤 Sagar Mishra
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MatCs3-14159&theme=dracula)
+
+---
+
+## 👥 Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=Mohima-Kmkr/Research-Paper)](https://github.com/Mohima-Kmkr/Research-Paper/graphs/contributors)
+
+This project is developed as part of academic research in Mass Communication and Journalism.
+
+---
+
+## 👩‍🎓 Author - Braja Mohima Karmakar
 
 ---
 
