@@ -142,6 +142,15 @@ A Jupyter Notebook (`feminist_ad_analysis.ipynb`) can be used for:
 Feminism, Fairness Cream Ads, Beauty Ideology, Patriarchy, Colorism, Male Gaze, Media Representation, Audience Reception, Gender Stereotypes, Visual Culture
 
 ---
+
+## 👥 Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=Mohima-Kmkr/Research-Paper)](https://github.com/Mohima-Kmkr/Research-Paper/graphs/contributors)
+
+This project is developed as part of academic research in Mass Communication and Journalism.
+
+---
+
 ## 📊 Contributor Stats
 
 ### 👤 Mohima Karmakar
@@ -151,14 +160,6 @@ Feminism, Fairness Cream Ads, Beauty Ideology, Patriarchy, Colorism, Male Gaze, 
 ### 👤 Sagar Mishra
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MatCs3-14159&theme=dracula)
-
----
-
-## 👥 Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=Mohima-Kmkr/Research-Paper)](https://github.com/Mohima-Kmkr/Research-Paper/graphs/contributors)
-
-This project is developed as part of academic research in Mass Communication and Journalism.
 
 ---
 
